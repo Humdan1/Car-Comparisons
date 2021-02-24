@@ -1,0 +1,11 @@
+Model Name,Vehicle Category,Price(USD),Liters,Cylinders,Turbo/Hybrid,MPG Combined,Horsepower,LB-FT torque,Peak RPM,Transmission Type,Drive Train,Tank Capacity (gal),Fuel Type,CO2 Emissions gkm,Top Speed,1/4 mile time (sec),1/4 mile speed (mph),0-60 (seconds),60-0 (feet),Length (in),Width (in),Ride Height,Wheel Base (in),Weight (lbs)
+McLaren P1,2-door,"1,150,000",3.8,8,Twin turbo hybrid,17,903,664,7250,7 speed dual clutch,RWD,16,Premium,194,217,9.8,148.9,2.7,30.2,181,77,47,105,3411
+La Ferrari,2-door,"1,500,000",6.3,12,Kers hybrid,14,949,516,9250,7 speed dual clutch,RWD,22.7,Premium,330,217,9.7,149.1,2.4,90,185.1,78.4,44,104.3,3495
+Honda Fit,Hatchback,"16,190",1.5,4,NA,36,130,114,6800,6 speed CVT,FWD,10.6,Regular,246,115,16.3,84.2,8.4,126,161.4,67,60,99.6,2604
+Chevy Sonic,Hatchback,"16,720",1.4,4,Turbo,32,138,148,4900,6 speed ,FWD,12.2,Regular,296,108,16.3,89,8.1,118,159.8,68.3,59.7,99.4,2813
+Range Rover P400 HSE,SUV hybrid,"96,000",2,4,Turbo hybrid,42,398,472,5500,8 speed Automatic,AWD,27.5,Premium,209,137,15.3,90,6.5,NA,196.9,81.6,73.6,196.9,5515
+Toyota 4Runner,SUV,"46,500",4,6,NA,18,270,278,5600,5 speed E-control,AWD Part-time,19,Regular,308,115,15.5,86,7.3,144.4,190.7,76,70,110,4676
+Toyota Camry,4-door,"24,500",2.5,4,NA,33,203,184,6600,8 speed,FWD,13,Regular,173,113,15.9,90,7.5,122,192,72,57,111,3241
+Rolls Royce Ghost ,4-door,"380,000",6.6,12,Twin turbo,14,563,605,5250,8 speed,RWD,20,Premium,390,155,12.8,113.1,4.4,131,213,77,61,130,5490
+Ford Raptor,Truck,"53,000",3.5,6,Twin turbo,16,450,510,5000,10 speed,AWD,36,Regular,233,107,13.9,99,5.1,196,231.9,86.3,78.5,146,5525
+Ford F-450 Limited,Truck,"91,125",6.7,8,Turbo,24,475,1050,2800,10 speed,AWD,48,Diesel,NA,81,16.1,86,8,205,231.8,96,82,141.6,8012
